@@ -1,5 +1,5 @@
 A basic neural network featuring a manual implementation of back propagation
-for traiing purposes. Requires Jupyter Notebooks, conda installation is
+for training purposes. Requires Jupyter Notebooks, conda installation is
 preferred. Includes data set.
 
 * Requirements:
